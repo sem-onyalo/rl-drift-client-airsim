@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+msgpack-rpc-python = "*"
+numpy = "*"
+opencv-contrib-python = "*"
+keyboard = "*"
+pandas = "*"
+
+[dev-packages]
